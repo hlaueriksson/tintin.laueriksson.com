@@ -1,0 +1,28 @@
+body {
+	background-color: #CA7; /* http://bada55.io/ca7 */
+	
+	font-family: 'Indie Flower', cursive;
+	font-size: 28px;
+	
+	padding-left: 20px;
+}
+
+.content {
+	margin-top: -30px;
+	padding-left: 20px;
+}
+
+.section {
+	padding-left: 20px;
+}
+
+.clear {
+	clear: both;
+}
+
+figure {
+	margin: 0px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	float: left;
+}
